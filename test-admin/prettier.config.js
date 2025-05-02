@@ -1,0 +1,12 @@
+// export default {
+
+// };
+
+export default{
+  "semi": false,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "jsxSingleQuote": true
+}
